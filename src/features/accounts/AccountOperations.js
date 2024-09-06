@@ -110,3 +110,6 @@ function AccountOperations() {
 }
 
 export default AccountOperations;
+
+
+// to create Thunks in Redux Toolkit, we can use the createAsyncThunk function that Redux Toolkit provides us.
